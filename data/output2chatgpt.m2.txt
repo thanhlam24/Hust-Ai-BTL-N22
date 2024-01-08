@@ -1,0 +1,1219 @@
+S If we think about it the car is better because we do n't need to wait for them has we are waiting for the bus or underground but in another way car cust more money than the public transport .
+A 4 5|||R:OTHER|||it,|||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||as|||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||underground.|||REQUIRED|||-NONE-|||0
+A 27 28|||R:OTHER|||However,|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOUN|||way,|||REQUIRED|||-NONE-|||0
+A 31 31|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 32 33|||R:SPELL|||costs|||REQUIRED|||-NONE-|||0
+A 36 37|||U:DET||||||REQUIRED|||-NONE-|||0
+A 38 40|||R:ORTH|||transport.|||REQUIRED|||-NONE-|||0
+
+S By car we can just stay with ourselves which can be good because we can listen to the music that we like and we do n't need to be around people that are unkwoned but if we chose public transport we can meet friends or family so both trasnportations are good and the cars do n't need necessarialy to end up with the public transport .
+A 0 1|||R:PREP|||With|||REQUIRED|||-NONE-|||0
+A 1 1|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||car,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||ourselves,|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB|||like,|||REQUIRED|||-NONE-|||0
+A 24 26|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
+A 33 34|||R:ADJ|||unknown.|||REQUIRED|||-NONE-|||0
+A 34 35|||R:ORTH|||But|||REQUIRED|||-NONE-|||0
+A 37 38|||R:VERB:TENSE|||choose|||REQUIRED|||-NONE-|||0
+A 39 40|||R:NOUN|||transport,|||REQUIRED|||-NONE-|||0
+A 45 46|||R:NOUN|||family,|||REQUIRED|||-NONE-|||0
+A 48 49|||R:NOUN|||transportation options|||REQUIRED|||-NONE-|||0
+A 50 51|||R:OTHER|||good,|||REQUIRED|||-NONE-|||0
+A 52 53|||U:DET||||||REQUIRED|||-NONE-|||0
+A 54 56|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
+A 56 56|||M:ADV|||necessarily|||REQUIRED|||-NONE-|||0
+A 57 58|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 59 61|||R:VERB|||compete|||REQUIRED|||-NONE-|||0
+A 62 63|||U:DET||||||REQUIRED|||-NONE-|||0
+A 64 66|||R:ORTH|||transport.|||REQUIRED|||-NONE-|||0
+
+S But , even when it 's true that it 's the faster option , you must be very carefuly at time to get off a plane .
+A 0 2|||R:OTHER|||However,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||option,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||careful|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOUN:NUM|||times|||REQUIRED|||-NONE-|||0
+A 25 27|||R:ORTH|||plane.|||REQUIRED|||-NONE-|||0
+
+S If you are looking for confort and relax , obviously , you have to take a boat .
+A 5 6|||R:SPELL|||comfort|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||relaxation,|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||obviously,|||REQUIRED|||-NONE-|||0
+A 16 18|||R:ORTH|||boat.|||REQUIRED|||-NONE-|||0
+
+S There is n't comparation on watching the changes in the landscape through a window , enjoying the way that you are doing and , the best part , the cheapest way to get away some days and take the routine off some days .
+A 1 2|||R:VERB|||isn't|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||comparison|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 13 15|||R:ORTH|||window,|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||traveling,|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 26 28|||R:ORTH|||part,|||REQUIRED|||-NONE-|||0
+A 34 34|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 37 38|||R:VERB|||break|||REQUIRED|||-NONE-|||0
+A 39 40|||R:NOUN|||routine.|||REQUIRED|||-NONE-|||0
+A 40 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+
+S I went to the abandon house and started to think the best way to make his life miserable i passed the next 2 weeks looking for ideas to make him sufer .
+A 4 5|||R:VERB:FORM|||abandoned|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PREP|||about|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||miserable.|||REQUIRED|||-NONE-|||0
+A 18 19|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 19 20|||R:VERB|||spent|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||two|||REQUIRED|||-NONE-|||0
+A 30 31|||R:SPELL|||suffer.|||REQUIRED|||-NONE-|||0
+A 31 32|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S As i did n't found nothing , i went to the place he live at and started to look for some information about his life and found people who he care about so as i continued to go to his houes i notice he will alays go to tehe same house so i decidec to follow him to the house and i foun out he was dating a girl she might be his girlfrien so i finally gota an idea , i would drive him crazy just as he did with me , that way she will think he had problems on his mind and left him , but son i thougt about it again and realized that if i did that she will try to help him and they will be more united , so i decided to drive them both crazy almost at the border of death , jus as he did with me !
+A 1 4|||R:ORTH|||I didn't|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||find|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||anything,|||REQUIRED|||-NONE-|||0
+A 6 8|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
+A 12 12|||M:ADV|||where|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:SVA|||lives|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOUN|||life.|||REQUIRED|||-NONE-|||0
+A 25 26|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 30 31|||R:VERB:SVA|||cares|||REQUIRED|||-NONE-|||0
+A 31 32|||R:OTHER|||about.|||REQUIRED|||-NONE-|||0
+A 32 33|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 33 35|||R:ORTH|||As I|||REQUIRED|||-NONE-|||0
+A 40 41|||R:SPELL|||house,|||REQUIRED|||-NONE-|||0
+A 41 42|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 42 43|||R:VERB:TENSE|||noticed|||REQUIRED|||-NONE-|||0
+A 44 45|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 45 46|||R:SPELL|||always|||REQUIRED|||-NONE-|||0
+A 46 47|||R:VERB:SVA|||goes|||REQUIRED|||-NONE-|||0
+A 48 49|||R:SPELL|||the|||REQUIRED|||-NONE-|||0
+A 50 51|||R:NOUN|||house.|||REQUIRED|||-NONE-|||0
+A 51 53|||R:ORTH|||So I|||REQUIRED|||-NONE-|||0
+A 53 54|||R:SPELL|||decided|||REQUIRED|||-NONE-|||0
+A 59 60|||R:NOUN|||house,|||REQUIRED|||-NONE-|||0
+A 61 62|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 62 63|||R:SPELL|||found|||REQUIRED|||-NONE-|||0
+A 68 69|||R:NOUN|||girl.|||REQUIRED|||-NONE-|||0
+A 69 70|||R:ORTH|||She|||REQUIRED|||-NONE-|||0
+A 73 74|||R:SPELL|||girlfriend.|||REQUIRED|||-NONE-|||0
+A 74 76|||R:ORTH|||So I|||REQUIRED|||-NONE-|||0
+A 77 78|||R:SPELL|||got|||REQUIRED|||-NONE-|||0
+A 79 80|||R:NOUN|||idea:|||REQUIRED|||-NONE-|||0
+A 80 82|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
+A 85 86|||R:OTHER|||crazy,|||REQUIRED|||-NONE-|||0
+A 91 92|||R:OTHER|||me.|||REQUIRED|||-NONE-|||0
+A 92 94|||U:PUNCT|||That|||REQUIRED|||-NONE-|||0
+A 94 95|||R:OTHER|||way,|||REQUIRED|||-NONE-|||0
+A 106 107|||R:OTHER|||him.|||REQUIRED|||-NONE-|||0
+A 107 109|||U:PUNCT|||But|||REQUIRED|||-NONE-|||0
+A 109 110|||R:SPELL|||soon|||REQUIRED|||-NONE-|||0
+A 110 111|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 111 112|||R:SPELL|||thought|||REQUIRED|||-NONE-|||0
+A 119 120|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 121 122|||R:OTHER|||that,|||REQUIRED|||-NONE-|||0
+A 123 124|||R:VERB:TENSE|||would|||REQUIRED|||-NONE-|||0
+A 127 128|||R:OTHER|||him,|||REQUIRED|||-NONE-|||0
+A 130 131|||R:VERB:TENSE|||would|||REQUIRED|||-NONE-|||0
+A 133 134|||R:ADJ|||united.|||REQUIRED|||-NONE-|||0
+A 134 136|||U:PUNCT|||So|||REQUIRED|||-NONE-|||0
+A 136 137|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 142 143|||R:OTHER|||crazy,|||REQUIRED|||-NONE-|||0
+A 144 145|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 148 150|||R:ORTH|||death,|||REQUIRED|||-NONE-|||0
+A 150 151|||R:SPELL|||just|||REQUIRED|||-NONE-|||0
+A 155 157|||R:ORTH|||me!|||REQUIRED|||-NONE-|||0
+
+S I screamed , my anger had dominated my mind i did nt had no longer control over my actions , i was afarid of what i had become and what i could do , but i could not control my self and the only thing i could think of was him suffering with a slow death and the satisaction i would feel when i finally had my revange , the best revange .
+A 1 2|||R:VERB|||screamed;|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||mind.|||REQUIRED|||-NONE-|||0
+A 9 10|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 11 12|||R:MORPH|||not|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||have|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||any|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN|||actions.|||REQUIRED|||-NONE-|||0
+A 19 21|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||afraid|||REQUIRED|||-NONE-|||0
+A 25 26|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 30 31|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 32 34|||R:ORTH|||do,|||REQUIRED|||-NONE-|||0
+A 35 36|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 39 42|||R:OTHER|||myself.|||REQUIRED|||-NONE-|||0
+A 42 43|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 45 46|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 58 59|||R:SPELL|||satisfaction|||REQUIRED|||-NONE-|||0
+A 59 60|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 63 64|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 67 68|||R:SPELL|||revenge,|||REQUIRED|||-NONE-|||0
+A 68 69|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 71 72|||R:SPELL|||revenge.|||REQUIRED|||-NONE-|||0
+A 72 73|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S But i was so mad at him and so ansiouns to make his life imposible , and soon my fear of death and my anger for all of the sufering i had been throug became stronger and bigger , i had made a desition i was goingo to do it , if he dedicated 4 years of his life tourtoring me and not wanting me to be happy i would the time is nesesary for him to have a miserable life and i wo nt stop until i had acomplished my goald
+A 1 2|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||anxious|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||impossible,|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 29 30|||R:SPELL|||suffering|||REQUIRED|||-NONE-|||0
+A 30 31|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 33 34|||R:SPELL|||through|||REQUIRED|||-NONE-|||0
+A 37 38|||R:OTHER|||bigger.|||REQUIRED|||-NONE-|||0
+A 38 40|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
+A 43 44|||R:SPELL|||decision;|||REQUIRED|||-NONE-|||0
+A 44 45|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 46 47|||R:SPELL|||going|||REQUIRED|||-NONE-|||0
+A 49 50|||R:OTHER|||it.|||REQUIRED|||-NONE-|||0
+A 50 52|||U:PUNCT|||If|||REQUIRED|||-NONE-|||0
+A 54 55|||R:OTHER|||four|||REQUIRED|||-NONE-|||0
+A 59 60|||R:SPELL|||torturing|||REQUIRED|||-NONE-|||0
+A 67 68|||R:OTHER|||happy,|||REQUIRED|||-NONE-|||0
+A 68 69|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 70 70|||M:VERB|||take|||REQUIRED|||-NONE-|||0
+A 72 73|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 73 74|||R:SPELL|||necessary|||REQUIRED|||-NONE-|||0
+A 80 81|||R:OTHER|||life,|||REQUIRED|||-NONE-|||0
+A 82 85|||R:OTHER|||I won't|||REQUIRED|||-NONE-|||0
+A 87 88|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 89 90|||R:SPELL|||accomplished|||REQUIRED|||-NONE-|||0
+A 91 92|||R:SPELL|||goal.|||REQUIRED|||-NONE-|||0
+
+S I graduated from National Taiwan Unerversity of Science and Technology .
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||University|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||Technology.|||REQUIRED|||-NONE-|||0
+
+S I am interested in looking after chilren and playing with chilfen .
+A 6 7|||R:SPELL|||children|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||them.|||REQUIRED|||-NONE-|||0
+
+S I always simle to people .
+A 2 3|||R:SPELL|||smile|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PREP|||at|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
+
+S I want to play with children and see their simle all day .
+A 9 10|||R:NOUN|||smiles|||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||day.|||REQUIRED|||-NONE-|||0
+
+S This conclusion become more prominent if we look into the data of the car companies and exponential growth in their sales figure and with low budget private cars in picture , scenario ddrastically changed in past 10 years
+A 2 3|||R:VERB:SVA|||becomes|||REQUIRED|||-NONE-|||0
+A 16 16|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN|||figures.|||REQUIRED|||-NONE-|||0
+A 22 23|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 23 26|||R:OTHER|||With low-budget|||REQUIRED|||-NONE-|||0
+A 29 29|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOUN|||picture,|||REQUIRED|||-NONE-|||0
+A 30 31|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 32 32|||M:VERB:TENSE|||has|||REQUIRED|||-NONE-|||0
+A 32 33|||R:SPELL|||drastically|||REQUIRED|||-NONE-|||0
+A 35 35|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 37 38|||R:NOUN|||years.|||REQUIRED|||-NONE-|||0
+
+S On our school or villiage football stadium i spend a lot of time every day .
+A 0 1|||R:PREP|||In|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||village|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN|||stadium,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 14 16|||R:ORTH|||day.|||REQUIRED|||-NONE-|||0
+
+S I want to give advice to someone who starts this sport:"You must believe in yorself " .
+A 10 11|||R:ORTH|||sport: "You|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||yourself."|||REQUIRED|||-NONE-|||0
+A 15 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Hallo my firend ,
+A 0 1|||R:SPELL|||Hello,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||friend.|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||You regret that you weren't there with me. I'll try to describe everything precisely because I know that you care.|||REQUIRED|||-NONE-|||0
+
+S You regret that you were n't there with me . I 'll try dicribe everything precisely , becouse I know that you very
+A 0 4|||R:OTHER|||It|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||was a long|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||time|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||ago;|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||however,|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||still|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB|||keep|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 15 22|||R:OTHER|||rhythm in my|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||body!|||REQUIRED|||-NONE-|||0
+
+S It was a lot of time ago , however , I still keep the rhthym in my body !
+A 0 1|||R:OTHER|||Around the city, you|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB|||can find|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||many|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||places|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||where|||REQUIRED|||-NONE-|||0
+A 5 15|||R:OTHER|||people throw fridges, kitchen items,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||"amianto"|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||(asbestos),|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||old|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||things, or furniture.|||REQUIRED|||-NONE-|||0
+
+S Around the city , you can find many places where the people throw frigo , kitchen , " amianto " , old things or furniture .
+A 0 1|||R:OTHER|||I remember|||REQUIRED|||-NONE-|||0
+A 1 6|||R:OTHER|||when I celebrated my 15th birthday; only one schoolmate|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||wanted to come|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||to my|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||party. I think that|||REQUIRED|||-NONE-|||0
+A 10 11|||R:DET|||this|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||day was one|||REQUIRED|||-NONE-|||0
+A 13 22|||R:OTHER|||of the worst|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOUN|||days|||REQUIRED|||-NONE-|||0
+A 23 26|||R:OTHER|||of my life.|||REQUIRED|||-NONE-|||0
+
+S I remember when I celebreted my 15th birthday , only one schoolmate wanted to come to my party ; I think that this day was one of the worst day of my life .
+A 0 4|||R:OTHER|||I'm|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||learning|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 8 22|||R:OTHER|||lot, and|||REQUIRED|||-NONE-|||0
+A 22 23|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOUN|||students|||REQUIRED|||-NONE-|||0
+A 24 34|||R:OTHER|||are very friendly.|||REQUIRED|||-NONE-|||0
+
+S I 'm lerning a lot and the students are very friendly .
+A 0 0|||M:CONJ|||But|||REQUIRED|||-NONE-|||0
+A 1 3|||R:VERB|||need to study|||REQUIRED|||-NONE-|||0
+A 3 6|||R:OTHER|||harder because I want to pass|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||exam,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||and it's|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||difficult.|||REQUIRED|||-NONE-|||0
+
+S But I need to study harder because I want to pass the exam , and it 's very dificult .
+A 0 2|||R:OTHER|||Technology has changed people's lives very much. In fact, we can think about how different our life|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB|||is compared|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||either our parents' or our grandparents' lives. For example, my parents didn't watch TV|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PRON|||there|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB|||wasn't|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||any TV in the world when they were young. But it|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||isn't the only difference; we can think of|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||mobile|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||phone, the computer,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||at|||REQUIRED|||-NONE-|||0
+A 16 20|||R:OTHER|||least the internet. Our grandparents wouldn't imagine a strange machine like a computer in their life.|||REQUIRED|||-NONE-|||0
+
+S the tecnology have chanched the people 's life very much.in fact we can think how different is our life respect either to our parents or our grandparents life.for example my parents did n't whacth on tv , because there was n't any tv on the world when they were young.but it is n't the alone difference : we can think at the mobilefone , the computer ed at least the internet.our grandparents woundn't imagine a strange machine like computer in their life .
+A 0 4|||R:OTHER|||So|||REQUIRED|||-NONE-|||0
+A 5 21|||R:OTHER|||best way for them|||REQUIRED|||-NONE-|||0
+A 22 51|||R:OTHER|||travel|||REQUIRED|||-NONE-|||0
+A 52 83|||R:OTHER|||public transportation.|||REQUIRED|||-NONE-|||0
+
+S So the best way for them to travel is public transpotations .
+A 0 1|||R:OTHER|||Each person should practice saving|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||when|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||using|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||any|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||source of energy|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB|||protect|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||their|||REQUIRED|||-NONE-|||0
+A 9 10|||R:ADJ|||own|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||life.|||REQUIRED|||-NONE-|||0
+
+S Each person should practice saving when using any source of eneny to protect his own live .
+A 0 0|||M:PREP|||In|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||conclusion,|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||investments in developing|||REQUIRED|||-NONE-|||0
+A 3 4|||R:ADJ|||public|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||transport will be|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||increased|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||considerably. Public services|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||traveling have a bright|||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||potential, and its|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||stance in the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||future can't|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||be replaceable.|||REQUIRED|||-NONE-|||0
+
+S In conclusion , investments on developing public transport will be increased considerably , public services of travelling have a bright potential and it 's stance in the future ca n't be replaceble
+A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 11|||R:VERB|||Are|||REQUIRED|||-NONE-|||0
+A 11 14|||R:OTHER|||you|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||free|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||the weekend? Do you|||REQUIRED|||-NONE-|||0
+A 18 32|||R:OTHER|||any plans?|||REQUIRED|||-NONE-|||0
+
+S Are you free for weckend , have you any plans .
+A 0 0|||M:PREP|||If|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||you are|||REQUIRED|||-NONE-|||0
+A 2 5|||R:OTHER|||interested, find|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||me|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||at 8 o'clock near|||REQUIRED|||-NONE-|||0
+A 8 9|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||cinema|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||entrance.|||REQUIRED|||-NONE-|||0
+
+S If you are interesedt , find me at 8 clock near the cinema entrance .
+A 0 1|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||Jason|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+A 3 6|||R:OTHER|||my friend;|||REQUIRED|||-NONE-|||0
+A 6 10|||R:OTHER|||he is drunk and also|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||danced|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||your|||REQUIRED|||-NONE-|||0
+A 12 14|||R:NOUN|||girlfriend.|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Jason is my friend , he is drunk and also he dance with your girfriend .
+A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:DET|||A|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||of mine recently explained that if a zombie apocalypse should happen,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:TENSE|||would be|||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||prepared because|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||has been watching "The Walking Dead" for some time now. So, in|||REQUIRED|||-NONE-|||0
+A 13 14|||R:DET|||his|||REQUIRED|||-NONE-|||0
+A 14 16|||R:OTHER|||eyes, he learned how (not) to act in that case.|||REQUIRED|||-NONE-|||0
+
+S A friend of mine recently explained that if a zombie apokalyspe should happen he would be prepared because he has been watching Walking Dead for some time now - so in his eyes , he learned how ( not ) to act in that case .
+A 0 2|||R:OTHER|||Apart|||REQUIRED|||-NONE-|||0
+A 2 5|||R:OTHER|||from educational|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||content,|||REQUIRED|||-NONE-|||0
+A 6 11|||R:OTHER|||there are|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||so|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||many foul|||REQUIRED|||-NONE-|||0
+A 15 22|||R:OTHER|||contents, business advertisements,|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 23 32|||R:OTHER|||fake information on TV that|||REQUIRED|||-NONE-|||0
+A 32 33|||R:NOUN|||citizens|||REQUIRED|||-NONE-|||0
+A 33 34|||R:OTHER|||won't|||REQUIRED|||-NONE-|||0
+A 34 35|||R:SPELL|||be|||REQUIRED|||-NONE-|||0
+A 35 40|||R:OTHER|||able|||REQUIRED|||-NONE-|||0
+A 41 46|||R:OTHER|||distinguish right from wrong.|||REQUIRED|||-NONE-|||0
+
+S Apart from eduational contents , there are so many foul contents , business advertisements and fake information on TV that citizens wo n't be able to tell right from wrong .
+A 0 1|||R:ADV|||First|||REQUIRED|||-NONE-|||0
+A 1 2|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 2 6|||R:OTHER|||all, you need to|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||afford|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||to buy it. After that, you must pay|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||insurance,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||council|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||tax,|||REQUIRED|||-NONE-|||0
+A 15 30|||R:OTHER|||mechanic bills, and so|||REQUIRED|||-NONE-|||0
+A 30 31|||R:OTHER|||on.|||REQUIRED|||-NONE-|||0
+
+S First of all you need can afford to buy it , after that , you must pay for the asurance , council tax , and mechanic bills , and so on .
+A 0 1|||R:PREP|||Whereas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||public transport,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||only|||REQUIRED|||-NONE-|||0
+A 5 7|||R:VERB|||have|||REQUIRED|||-NONE-|||0
+A 8 11|||R:OTHER|||pay|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||ticket.|||REQUIRED|||-NONE-|||0
+A 13 15|||U:PUNCT|||You|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||don't|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB|||have to|||REQUIRED|||-NONE-|||0
+A 17 17|||M:NOUN|||drive,|||REQUIRED|||-NONE-|||0
+A 17 17|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||if|||REQUIRED|||-NONE-|||0
+A 19 22|||R:OTHER|||bus,|||REQUIRED|||-NONE-|||0
+A 22 27|||R:OTHER|||train, or whatever vehicle you use breaks|||REQUIRED|||-NONE-|||0
+A 27 29|||R:OTHER|||down, it isn't|||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||your|||REQUIRED|||-NONE-|||0
+A 30 32|||R:OTHER|||responsibility.|||REQUIRED|||-NONE-|||0
+
+S whereas in a public transport , you only have to pay the ticket , you do n't have to drive and if the bus or train or whatever vehicle you use , breacks down it is n't your responsibility .
+A 0 2|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:DET|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||R:ADJ|||next|||REQUIRED|||-NONE-|||0
+A 4 9|||R:OTHER|||day, Huck went|||REQUIRED|||-NONE-|||0
+A 10 18|||R:OTHER|||Tom's house|||REQUIRED|||-NONE-|||0
+A 19 20|||R:OTHER|||tell him that there is|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||an|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||abandoned house up|||REQUIRED|||-NONE-|||0
+A 23 26|||R:OTHER|||hill,|||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||so|||REQUIRED|||-NONE-|||0
+A 27 30|||R:OTHER|||the two|||REQUIRED|||-NONE-|||0
+A 30 34|||R:OTHER|||boys considered|||REQUIRED|||-NONE-|||0
+A 35 40|||R:OTHER|||an adventure.|||REQUIRED|||-NONE-|||0
+
+S The next day Huck went to Tom 's house to tell him that there is an abandoned house up the hill so the two boys considered like an andventure .
+A 0 4|||R:OTHER|||So they|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||the mysterious|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||house,|||REQUIRED|||-NONE-|||0
+A 9 12|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||when|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PRON|||they|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:TENSE|||were|||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||inside, they heard|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||voices. Tom and Huck hid, and|||REQUIRED|||-NONE-|||0
+A 19 20|||R:PRON|||they|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||saw|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||that Injun Joe was|||REQUIRED|||-NONE-|||0
+A 23 27|||R:OTHER|||one that|||REQUIRED|||-NONE-|||0
+A 27 28|||R:OTHER|||was|||REQUIRED|||-NONE-|||0
+A 28 30|||R:OTHER|||talking.|||REQUIRED|||-NONE-|||0
+
+S So they went to the misterious house and when they were inside they heard voices so Tom and Huck hide and they saw that Injuin Joe was the one that was talking .
+A 0 2|||R:OTHER|||He|||REQUIRED|||-NONE-|||0
+A 3 3|||M:ADV|||back|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||Sarah's|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||cleaned|||REQUIRED|||-NONE-|||0
+A 9 9|||M:DET|||all|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||the|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||bathroom, but Sarah already|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||knew that he|||REQUIRED|||-NONE-|||0
+A 13 16|||R:OTHER|||left the bathroom like this. So|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||before|||REQUIRED|||-NONE-|||0
+A 17 18|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN|||Michael|||REQUIRED|||-NONE-|||0
+A 19 21|||R:OTHER|||entered the bathroom,|||REQUIRED|||-NONE-|||0
+A 21 22|||R:PRON|||she|||REQUIRED|||-NONE-|||0
+A 22 26|||R:OTHER|||said, "I know what you left there," and Michael|||REQUIRED|||-NONE-|||0
+A 26 27|||R:VERB|||went running|||REQUIRED|||-NONE-|||0
+A 27 27|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 28 33|||R:OTHER|||bathroom.|||REQUIRED|||-NONE-|||0
+
+S so he went back to Sarah 's house and clean all the bathroom , but Sarah already knew that he left the bathroom like this so before Michael entered to the bathroon she said : " I know what you leave there " and Michael went running to the bathroom .
+A 0 5|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 5 7|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||like|||REQUIRED|||-NONE-|||0
+A 10 11|||R:DET|||my|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||math|||REQUIRED|||-NONE-|||0
+A 12 17|||R:OTHER|||teacher very|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||much|||REQUIRED|||-NONE-|||0
+A 18 19|||R:PREP|||because|||REQUIRED|||-NONE-|||0
+A 19 20|||R:DET|||her|||REQUIRED|||-NONE-|||0
+A 20 23|||R:OTHER|||teaching|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||style|||REQUIRED|||-NONE-|||0
+A 24 41|||R:OTHER|||is very|||REQUIRED|||-NONE-|||0
+A 41 43|||R:OTHER|||realistic|||REQUIRED|||-NONE-|||0
+A 44 47|||R:OTHER|||simple|||REQUIRED|||-NONE-|||0
+A 48 51|||R:OTHER|||understand.|||REQUIRED|||-NONE-|||0
+
+S I like my maths teacher very much because her teaching style is very realistic and simple to understanad .
+A 0 0|||M:OTHER|||I said that because when|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB|||was eleven,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||best|||REQUIRED|||-NONE-|||0
+A 4 8|||R:OTHER|||friend had an operation on|||REQUIRED|||-NONE-|||0
+A 9 11|||R:OTHER|||back. Before the operation,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||she|||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||came with me,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||every day I had|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||wait for her because she spent a lot of time in the shower cleaning her long hair. I hated that!|||REQUIRED|||-NONE-|||0
+
+S I said that because when I was eleven my best friend had been operated on her back and before the operation he came with me and every day I had to wait for her because she spendt a lot of time in the shower cleaning her long hais , I hated that !
+A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 6 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 14|||R:VERB|||have|||REQUIRED|||-NONE-|||0
+A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 18 22|||R:OTHER|||dog; its|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||name|||REQUIRED|||-NONE-|||0
+A 23 37|||R:OTHER|||is Chente. It is|||REQUIRED|||-NONE-|||0
+A 38 45|||R:OTHER|||Golden|||REQUIRED|||-NONE-|||0
+A 45 53|||R:OTHER|||Retriever.|||REQUIRED|||-NONE-|||0
+
+S i have a dog it name 's chente , it is a golden retriver .
+A 0 1|||M:VERB:TENSE|||Also, I|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||brother;|||REQUIRED|||-NONE-|||0
+A 4 5|||R:DET|||his|||REQUIRED|||-NONE-|||0
+A 6 6|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 6 6|||M:NOUN|||Jose|||REQUIRED|||-NONE-|||0
+A 6 6|||M:NOUN|||Luis.|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PRON|||He|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN:POSS|||is|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||twenty years|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||old, and his personality|||REQUIRED|||-NONE-|||0
+A 11 15|||R:OTHER|||dynamic and funny.|||REQUIRED|||-NONE-|||0
+
+S Also i have a brother his name is jose luis he has twenty years old , his personality is dinamic and funny .
+A 0 2|||R:OTHER|||My|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||mom|||REQUIRED|||-NONE-|||0
+A 3 7|||R:OTHER|||and dad|||REQUIRED|||-NONE-|||0
+A 7 23|||R:OTHER|||are good guys.|||REQUIRED|||-NONE-|||0
+
+S My mom and my dad , they are a goog guys .
+A 0 1|||R:DET|||Another|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||thing|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 3 6|||R:OTHER|||you must know is how to deal with people.|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PRON|||We|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||searching for someone who can impress everyone, also someone who can bring the customers good|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||attention and service.|||REQUIRED|||-NONE-|||0
+
+S Another thing that you must know it 's how to deal with people , we are searching for someone who can impress everyone , also someone who can bring the customers good atencion and service .
+A 0 7|||U:OTHER|||It|||REQUIRED|||-NONE-|||0
+A 7 27|||R:OTHER|||is easier than you|||REQUIRED|||-NONE-|||0
+A 27 29|||R:VERB|||think.|||REQUIRED|||-NONE-|||0
+A 29 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+
+S It is easyier than you think .
+A 0 1|||R:OTHER|||Every Sunday, we do a mutual cooperation where anyone|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB|||can treat|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||rubbish as well as|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PRON|||they|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||treat|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||themselves.|||REQUIRED|||-NONE-|||0
+
+S Every sunday , we do a mutual cooporation where anyone can treat rubbish as good as they treat themselves .
+A 0 3|||R:OTHER|||While|||REQUIRED|||-NONE-|||0
+A 4 12|||R:OTHER|||recycle inorganic|||REQUIRED|||-NONE-|||0
+A 13 20|||R:OTHER|||too.|||REQUIRED|||-NONE-|||0
+
+S Whilst , we recyling inorganic rubbish too .
+A 0 8|||R:OTHER|||Firstly, I agree with the given statement that there would be a tough time for public transportation in the near future because people want privacy as well as freedom, which is quite impossible in public transportation.|||REQUIRED|||-NONE-|||0
+
+S firstly . i agree with given statement that there would be tough time for public transportation in near future.because people wamnts privacy as well as freedom which is quite impossible in public transportation .
+A 0 2|||R:OTHER|||As much as possible,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||city|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||areas or towns|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||mismanaged|||REQUIRED|||-NONE-|||0
+A 6 13|||R:OTHER|||routines who travel|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||transportation.|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||As|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||a consequence, generally,|||REQUIRED|||-NONE-|||0
+A 20 22|||R:OTHER|||avoid traveling by public|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||transportation.|||REQUIRED|||-NONE-|||0
+A 23 25|||R:OTHER|||Finally, I can|||REQUIRED|||-NONE-|||0
+A 25 27|||R:OTHER|||say that there|||REQUIRED|||-NONE-|||0
+A 27 28|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 28 29|||R:ADJ|||various|||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||modes|||REQUIRED|||-NONE-|||0
+A 30 32|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 33 34|||R:OTHER|||available|||REQUIRED|||-NONE-|||0
+
+S as much as possible of city area or town which mismanaged routine who travelled by public transportation.as a consquence generally people avoid travelling by public transportation finally i can say that there are various mode of transporotation avaliable
+A 0 4|||R:OTHER|||which play an important role in giving tough competition to the government. As a result|||REQUIRED|||-NONE-|||0
+A 5 7|||R:NOUN|||this,|||REQUIRED|||-NONE-|||0
+A 7 11|||R:OTHER|||consumers get|||REQUIRED|||-NONE-|||0
+A 11 14|||R:OTHER|||more benefits|||REQUIRED|||-NONE-|||0
+A 14 15|||R:PREP|||like|||REQUIRED|||-NONE-|||0
+A 15 19|||R:OTHER|||lower fares, privacy, freedom, and safe traveling. In addition,|||REQUIRED|||-NONE-|||0
+A 19 20|||R:OTHER|||many|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOUN|||automobile|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN|||companies|||REQUIRED|||-NONE-|||0
+A 22 23|||R:VERB|||are launching|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||new cars with|||REQUIRED|||-NONE-|||0
+A 24 25|||R:ADJ|||affordable|||REQUIRED|||-NONE-|||0
+A 25 28|||R:OTHER|||prices, which|||REQUIRED|||-NONE-|||0
+A 28 30|||R:VERB|||entices|||REQUIRED|||-NONE-|||0
+A 30 32|||R:OTHER|||people|||REQUIRED|||-NONE-|||0
+A 32 33|||R:VERB|||to use|||REQUIRED|||-NONE-|||0
+A 33 37|||R:OTHER|||more and more private|||REQUIRED|||-NONE-|||0
+A 37 38|||R:NOUN|||vehicles.|||REQUIRED|||-NONE-|||0
+
+S which play an important role to give tough competition to government . as a result of this consumer gets more benefit like lower faire , privacy , freedom and safe travelling.in addition many automobile company launcing new car with affordable price which insiost people to use more and more private vechile .
+A 0 5|||R:OTHER|||Usually, there|||REQUIRED|||-NONE-|||0
+A 5 7|||R:VERB|||are|||REQUIRED|||-NONE-|||0
+A 7 23|||R:OTHER|||generation problems; sons don't understand|||REQUIRED|||-NONE-|||0
+A 23 28|||R:OTHER|||parents|||REQUIRED|||-NONE-|||0
+A 29 44|||R:OTHER|||vice versa. But dialoguing and listening|||REQUIRED|||-NONE-|||0
+A 45 47|||R:OTHER|||emotions|||REQUIRED|||-NONE-|||0
+A 48 52|||R:OTHER|||facts, everyone can have another point of view.|||REQUIRED|||-NONE-|||0
+
+S Usually there are generation problems , sons do n't understand parents and vicecersa , but dialoging and listening emotions and facts , everyone can have another point of view .
+A 0 2|||R:OTHER|||It|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:TENSE|||will be|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||very|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||cool|||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 10 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 23 25|||R:VERB|||see|||REQUIRED|||-NONE-|||0
+A 25 27|||R:OTHER|||the last part|||REQUIRED|||-NONE-|||0
+A 28 30|||R:OTHER|||Mockingjay!|||REQUIRED|||-NONE-|||0
+
+S It will be very cool to see the las part mokingjay !
+A 0 3|||R:OTHER|||In my opinion, it's|||REQUIRED|||-NONE-|||0
+A 4 5|||R:ADJ|||difficult|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||find|||REQUIRED|||-NONE-|||0
+A 7 8|||R:DET|||this|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||advantage|||REQUIRED|||-NONE-|||0
+A 9 12|||R:OTHER|||with other sports.|||REQUIRED|||-NONE-|||0
+
+S In my opinion , it 's very difficult to fnd this advantage with others sports .
+A 0 5|||R:OTHER|||He took the money the second day. He finished the registration and started writing the story. After a long time spent writing and doing a good job, he went to give his story to the international student magazine office. He found out there was a notice on the door saying that the competition|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||had been canceled.|||REQUIRED|||-NONE-|||0
+A 6 6|||M:OTHER|||He came back|||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||sad and told me what happened. Michael closed|||REQUIRED|||-NONE-|||0
+A 10 11|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 11 16|||R:OTHER|||door and knew at that moment he had made a mistake.|||REQUIRED|||-NONE-|||0
+
+S he took the money the second day , he finished the registration and started in writing the story after long time spending in writing and did good job he went to give his story to the international student magazine office , he found out there are a notice on the door say that the competition has canceled , he came back vey sad and told me what happened .Michael closed the door and knew at that moment he had a mistake .
+A 0 14|||R:OTHER|||Vandalism|||REQUIRED|||-NONE-|||0
+A 15 55|||R:OTHER|||Patras|||REQUIRED|||-NONE-|||0
+A 56 79|||R:OTHER|||increased|||REQUIRED|||-NONE-|||0
+A 80 82|||R:OTHER|||lot.|||REQUIRED|||-NONE-|||0
+
+S The vandalisme in patras has increased a lot .
+A 0 1|||M:OTHER|||In my opinion, the|||REQUIRED|||-NONE-|||0
+A 1 5|||R:OTHER|||police should|||REQUIRED|||-NONE-|||0
+A 5 9|||R:OTHER|||stop vandalism.|||REQUIRED|||-NONE-|||0
+
+S In my opinion the police should stop the Vandalisme .
+A 0 3|||R:OTHER|||What|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PRON|||they|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||will|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||do in|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||future, they'll see,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||like in a fog.|||REQUIRED|||-NONE-|||0
+
+S What they will do in future they see , like in a fogg .
+A 0 0|||M:OTHER|||Secondly, such|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||year off would|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||give|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||students a chance|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB|||to try|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||themselves|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||new|||REQUIRED|||-NONE-|||0
+A 12 13|||R:ADJ|||professional|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||spheres.|||REQUIRED|||-NONE-|||0
+
+S Secondly such year off would give to future students a chance to try themselves in new professional sphears .
+A 0 2|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||they|||REQUIRED|||-NONE-|||0
+A 5 9|||R:OTHER|||have|||REQUIRED|||-NONE-|||0
+A 9 10|||R:DET|||an|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN|||opportunity|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB|||be involved|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 15 19|||R:OTHER|||volunteer activities.|||REQUIRED|||-NONE-|||0
+
+S Also they would have an opprtunity being involved in volontier activity .
+A 0 1|||R:OTHER|||This year's|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||holiday|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||be really helpful for relaxation|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||and|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||getting|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||new|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||power|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 9 10|||R:ADJ|||future|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||education.|||REQUIRED|||-NONE-|||0
+
+S This year holiday would be really helpful for relaxation and gettin new power for future education .
+A 0 0|||M:OTHER|||I believe that there is no future for public transport. Using trains is more convenient and less expensive. Also, to decrease|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||carbon gases|||REQUIRED|||-NONE-|||0
+A 2 2|||M:OTHER|||affecting the|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||ozone, people|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:TENSE|||should|||REQUIRED|||-NONE-|||0
+A 5 9|||R:OTHER|||aware of the effects of using public transportation on the economy|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN|||environment. Governments|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||should encourage|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||people to use other ways|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||transport. This subject should be addressed in all media to learn and encourage people to use the right way for transport.|||REQUIRED|||-NONE-|||0
+
+S I am beleving that there is no future for the public transpot , using trains is mor convient and low expenses also to decrease the carpon gases which affecting the ozone , people should be aware about the effect of using the public transpotation on the econmics and enviroment , goverements shall encarge the people to use the other ways for transport , this subject shall be issuesd in all media to learn and encrage the people to use he wrigth way for transpot .
+A 0 4|||R:OTHER|||Because|||REQUIRED|||-NONE-|||0
+A 4 22|||R:OTHER|||we are|||REQUIRED|||-NONE-|||0
+A 22 24|||R:VERB|||Chinese,|||REQUIRED|||-NONE-|||0
+A 24 33|||R:OTHER|||why|||REQUIRED|||-NONE-|||0
+A 34 35|||R:SPELL|||we|||REQUIRED|||-NONE-|||0
+A 35 36|||R:OTHER|||give|||REQUIRED|||-NONE-|||0
+A 36 47|||R:OTHER|||up our mother tongue|||REQUIRED|||-NONE-|||0
+A 48 51|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 51 53|||R:VERB|||learn|||REQUIRED|||-NONE-|||0
+A 53 68|||R:OTHER|||our own culture|||REQUIRED|||-NONE-|||0
+A 68 69|||R:PREP|||through|||REQUIRED|||-NONE-|||0
+A 69 85|||R:OTHER|||a foreign language?|||REQUIRED|||-NONE-|||0
+
+S Because of we are Chinese , why do we give up our mother tongue and learn our owne culture through a foreign language ?
+A 0 20|||R:OTHER|||Woolypools is|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN|||specialist|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOUN|||meal restaurant.|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Woolypools is a speciallist of meal , it 's a meal restaurant .
+A 0 2|||R:OTHER|||With|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||the sweeping progress|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||development and the booming population, much agricultural land,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||forest, and ocean|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB|||have been used to destroy|||REQUIRED|||-NONE-|||0
+A 9 12|||R:OTHER|||and build more structures and transport|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||networks.|||REQUIRED|||-NONE-|||0
+
+S With the sweeping progress of development and the booming of population , many agricultueal land , forest and ocesn had been used to destroyed to build more constructure and transport networks .
+A 0 1|||R:OTHER|||To start with,|||REQUIRED|||-NONE-|||0
+A 1 6|||R:OTHER|||there is|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||wide|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||range|||REQUIRED|||-NONE-|||0
+A 10 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 14|||R:ADJ|||troublesome|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||issues|||REQUIRED|||-NONE-|||0
+A 17 20|||R:OTHER|||that may|||REQUIRED|||-NONE-|||0
+A 20 21|||R:VERB:FORM|||be|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB|||leading|||REQUIRED|||-NONE-|||0
+A 23 29|||R:OTHER|||this|||REQUIRED|||-NONE-|||0
+A 29 31|||R:NOUN|||phenomenon.|||REQUIRED|||-NONE-|||0
+A 31 32|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S To start with , there are a wide range of troublesome it maybe leadding to this phenomeon .
+A 0 1|||M:OTHER|||Additionally, people now continue to|||REQUIRED|||-NONE-|||0
+A 1 5|||R:OTHER|||destroy more|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||agriculture|||REQUIRED|||-NONE-|||0
+A 6 9|||R:OTHER|||and forests|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||satisfy all their|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||needs, which|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB|||will destroy|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOUN|||ecosystem diversity|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||and biodiversity, especially the endangered species.|||REQUIRED|||-NONE-|||0
+
+S Additionally , people now continues destroyed more agricultures and forest in order to satisfy all their need , which will distory the ecosystem diversity and biodiversity especially the endangered species .
+A 0 1|||R:OTHER|||According to|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 2 5|||R:OTHER|||problems mentioned|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||above,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:ADJ|||various|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||approaches|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||that the government|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||should|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||adopt|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB|||deal|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 15 16|||R:DET|||this|||REQUIRED|||-NONE-|||0
+A 16 20|||R:OTHER|||problem. First of all,|||REQUIRED|||-NONE-|||0
+A 20 23|||R:OTHER|||reducing building|||REQUIRED|||-NONE-|||0
+A 23 25|||R:OTHER|||structures from now|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOUN|||on,|||REQUIRED|||-NONE-|||0
+A 26 29|||R:OTHER|||planting more|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOUN|||trees|||REQUIRED|||-NONE-|||0
+A 30 31|||R:OTHER|||instead.|||REQUIRED|||-NONE-|||0
+
+S According to the problems above mentioned , various approaches that governmentshould be adopted to deal with this problem.first of all , reducing building constructure from now on , planting more trees instead .
+A 0 8|||R:OTHER|||Sustainable|||REQUIRED|||-NONE-|||0
+A 8 11|||R:OTHER|||development should|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||awareness|||REQUIRED|||-NONE-|||0
+A 14 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 24|||R:OTHER|||humans and start|||REQUIRED|||-NONE-|||0
+A 24 25|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 25 29|||R:OTHER|||protect the environment and|||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||preserve|||REQUIRED|||-NONE-|||0
+A 30 31|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 31 33|||R:OTHER|||animals.|||REQUIRED|||-NONE-|||0
+
+S Sustainadle development should be awaness to all human and start to porteat the environment and preserve the animals .
+A 0 1|||R:OTHER|||To sum up, this unpleasant|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||phenomenon and problems|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||worked out|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||resolve before things get worse,|||REQUIRED|||-NONE-|||0
+A 9 12|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 13 15|||R:OTHER|||governments|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB|||have to|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||take|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||responsibility for that.|||REQUIRED|||-NONE-|||0
+
+S To sum up , this unpleasant phenmenon and problems should be worked out to resolve before thing get worse ang the governments have to take the responsibility for that .
+A 0 1|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 1 9|||R:OTHER|||made that decision because|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:TENSE|||was|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||tired|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||of trying|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||learn English, and I|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||did not|||REQUIRED|||-NONE-|||0
+A 18 20|||R:OTHER|||have|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN|||level|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 24 27|||R:OTHER|||wanted. So when I heard|||REQUIRED|||-NONE-|||0
+A 27 28|||R:PREP|||about|||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||opportunity, I said yes.|||REQUIRED|||-NONE-|||0
+
+S I have taken that decision because I was tired to try to learn English and I did not have the level that I want , so when I heard about that ooportunity I said yes .
+A 1 3|||R:VERB|||want|||REQUIRED|||-NONE-|||0
+A 3 9|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||say something about|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||learning|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||language;|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PRON|||it|||REQUIRED|||-NONE-|||0
+A 16 18|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||hard|||REQUIRED|||-NONE-|||0
+A 19 30|||R:OTHER|||to get to me for|||REQUIRED|||-NONE-|||0
+A 30 31|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 31 36|||R:OTHER|||next reasons:|||REQUIRED|||-NONE-|||0
+
+S I want to say something about the learning of the English Languaje , is hard to get to me for the next reasons :
+A 0 2|||R:OTHER|||First|||REQUIRED|||-NONE-|||0
+A 2 4|||R:VERB|||reason;|||REQUIRED|||-NONE-|||0
+A 4 6|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||grammar|||REQUIRED|||-NONE-|||0
+A 9 10|||R:DET|||that|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN|||learners,|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||teachers, or institutes teach|||REQUIRED|||-NONE-|||0
+A 14 20|||R:OTHER|||like|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||Spanish language, my native|||REQUIRED|||-NONE-|||0
+A 22 24|||R:OTHER|||language.|||REQUIRED|||-NONE-|||0
+
+S First reason ; the grammar that the learners , teachers or institutes teach , is like the Spanish Languaje , my native Languaje .
+A 0 3|||R:OTHER|||What I want|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||say is it is very difficult to understand|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||conjunction|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 9 12|||R:OTHER|||verbs in|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||Spanish, just|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||imagine|||REQUIRED|||-NONE-|||0
+A 17 21|||R:OTHER|||same but not in your|||REQUIRED|||-NONE-|||0
+A 22 24|||R:OTHER|||language.|||REQUIRED|||-NONE-|||0
+
+S That I want to say , is very difficult to understand the conjuntion of the verb 's in Spanish Languaje , just Imaging you the same but not in your native lenguaje .
+A 0 1|||R:OTHER|||Second reason:|||REQUIRED|||-NONE-|||0
+A 1 5|||R:OTHER|||In English|||REQUIRED|||-NONE-|||0
+A 5 11|||R:OTHER|||syntax,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||structure|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||for constructing paragraphs or sentences,|||REQUIRED|||-NONE-|||0
+A 16 23|||R:OTHER|||is written|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||before|||REQUIRED|||-NONE-|||0
+A 25 26|||R:OTHER|||subject,|||REQUIRED|||-NONE-|||0
+A 28 29|||R:OTHER|||always.|||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||Which is|||REQUIRED|||-NONE-|||0
+A 30 31|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 31 33|||R:OTHER|||rule?|||REQUIRED|||-NONE-|||0
+
+S Second reason . in the English syntaxis , the structure for construction paragraph or sentences , the verb is written before the subject , but no always , Which is the rule ?
+A 0 1|||R:OTHER|||I can|||REQUIRED|||-NONE-|||0
+A 1 12|||R:OTHER|||recommend you to my uncle's|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||company|||REQUIRED|||-NONE-|||0
+A 13 18|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 18 20|||R:VERB|||do|||REQUIRED|||-NONE-|||0
+A 20 21|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 21 22|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 22 33|||R:OTHER|||job.|||REQUIRED|||-NONE-|||0
+
+S I can recommed you to my uncle 's company to do a job .
+A 0 1|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 1 3|||R:VERB|||According|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||age,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||evening activities|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||are not|||REQUIRED|||-NONE-|||0
+A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||problem for me, and I played many sports during my life, such as soccer, volleyball, etc.|||REQUIRED|||-NONE-|||0
+
+S According to my age , evening activities are not a problem for me , and I played many sports during my life , such as socker , bolleyball , ...
+A 0 2|||U:VERB|||To|||REQUIRED|||-NONE-|||0
+A 2 13|||R:OTHER|||sum it|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||up,|||REQUIRED|||-NONE-|||0
+A 14 15|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 16 19|||R:OTHER|||still consider|||REQUIRED|||-NONE-|||0
+A 19 20|||R:VERB|||having|||REQUIRED|||-NONE-|||0
+A 20 21|||R:DET|||your|||REQUIRED|||-NONE-|||0
+A 21 23|||R:OTHER|||car is way|||REQUIRED|||-NONE-|||0
+A 23 24|||R:ADJ|||safer|||REQUIRED|||-NONE-|||0
+A 24 25|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 25 30|||R:OTHER|||more convenient.|||REQUIRED|||-NONE-|||0
+
+S To sum it up I still consider having their own car is way more safe and convinient .
+A 0 2|||R:OTHER|||Even if|||REQUIRED|||-NONE-|||0
+A 3 6|||R:OTHER|||will|||REQUIRED|||-NONE-|||0
+A 6 8|||R:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||happened,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||there|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||are many people who can't get a|||REQUIRED|||-NONE-|||0
+A 11 11|||M:OTHER|||because it|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||too expensive, not only for buying but also for fuel, service,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:ADV|||so|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PUNCT|||forth.|||REQUIRED|||-NONE-|||0
+
+S Even if it will have happened there are many people who ca n't get a car , because it is too exspensive , not only for buying but for fuel , service and so forth .
+A 0 2|||R:OTHER|||Whether|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||tourism|||REQUIRED|||-NONE-|||0
+A 3 6|||R:VERB|||has had|||REQUIRED|||-NONE-|||0
+A 6 10|||R:OTHER|||a positive|||REQUIRED|||-NONE-|||0
+A 10 14|||R:OTHER|||or|||REQUIRED|||-NONE-|||0
+A 15 24|||R:OTHER|||negative impact|||REQUIRED|||-NONE-|||0
+A 24 25|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
+A 25 26|||R:OTHER|||our|||REQUIRED|||-NONE-|||0
+A 26 28|||R:OTHER|||lives remains quite a dilemma|||REQUIRED|||-NONE-|||0
+A 29 36|||R:OTHER|||the ignorant.|||REQUIRED|||-NONE-|||0
+
+S Whethere tourism has had a positive or a negative impact over our lifes , it remains quite a dilemma for the ignorants .
+A 0 0|||M:OTHER|||Alongside its development,|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||ability to travel|||REQUIRED|||-NONE-|||0
+A 3 7|||R:OTHER|||eased to|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||such|||REQUIRED|||-NONE-|||0
+A 8 14|||R:OTHER|||scale that|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||is now|||REQUIRED|||-NONE-|||0
+A 17 20|||R:OTHER|||common to commute from|||REQUIRED|||-NONE-|||0
+A 20 21|||R:DET|||one|||REQUIRED|||-NONE-|||0
+A 21 23|||R:OTHER|||country to another.|||REQUIRED|||-NONE-|||0
+
+S Alongside with its development , the ablity of travalling has easened to such a scale that it is now quite common to commute from one country to another .
+A 0 1|||R:OTHER|||The existence of|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||multinationals|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||is|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||tightly connected|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN|||idea|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||tourism,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||as|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||well as|||REQUIRED|||-NONE-|||0
+A 11 12|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||the idea of globalization since|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||traveler|||REQUIRED|||-NONE-|||0
+A 18 21|||R:OTHER|||not only|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOUN|||citizen|||REQUIRED|||-NONE-|||0
+A 23 25|||R:OTHER|||of his own|||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||but|||REQUIRED|||-NONE-|||0
+A 27 29|||R:OTHER|||a global citizen.|||REQUIRED|||-NONE-|||0
+
+S The existence of multinaionals is tightly connected to the idea of tourism , as well as with the idea of globalisation , since a traveller is not only a citizen of his own country but a global citizen .
+A 0 13|||R:OTHER|||There are countries, such|||REQUIRED|||-NONE-|||0
+A 14 16|||R:OTHER|||Greece or Bulgaria, in|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||which|||REQUIRED|||-NONE-|||0
+A 18 39|||R:OTHER|||economy relies merely on tourism.|||REQUIRED|||-NONE-|||0
+
+S There are countries , such as Greece or Bulgaria , in which the econmoy relies merely on tourism .
+A 0 1|||R:OTHER|||If tourism|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||influences the economy,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||thereby|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||influences the environment,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 8 9|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||if|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||it influences|||REQUIRED|||-NONE-|||0
+A 13 13|||M:OTHER|||environment, it influences transport.|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||How? People|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB|||become|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||more careful with their historical sites, thus preserving them; Transport is developed both|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||a small and large scale:|||REQUIRED|||-NONE-|||0
+
+S If tourism influences the econmy , it thereby influnces the environment , and if it influences the environment it influences the transport . How?people become more careful at their historcal sites , this way preserving them;Transport is developed both at a small and a large scale :
+A 0 9|||R:OTHER|||At|||REQUIRED|||-NONE-|||0
+A 9 10|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||small|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||scale,|||REQUIRED|||-NONE-|||0
+A 12 13|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 14 33|||R:OTHER|||cities, in a|||REQUIRED|||-NONE-|||0
+A 34 36|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 36 37|||R:VERB:TENSE|||will|||REQUIRED|||-NONE-|||0
+A 37 38|||R:VERB|||allow|||REQUIRED|||-NONE-|||0
+A 39 42|||R:OTHER|||citizens|||REQUIRED|||-NONE-|||0
+A 43 43|||M:OTHER|||tourists to|||REQUIRED|||-NONE-|||0
+A 43 44|||R:OTHER|||reach|||REQUIRED|||-NONE-|||0
+A 44 45|||R:ADJ|||important|||REQUIRED|||-NONE-|||0
+A 45 47|||R:OTHER|||places more efficiently.|||REQUIRED|||-NONE-|||0
+
+S At a small scale , in cities , in a way which will allow citizens and tourists alike to reach important places more efficently .
+A 0 1|||R:OTHER|||I would like to go to|||REQUIRED|||-NONE-|||0
+A 2 3|||R:ADJ|||new artistic|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||roller skating|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||competition, although|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||my city,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||there|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||aren't|||REQUIRED|||-NONE-|||0
+A 10 14|||R:OTHER|||lot of|||REQUIRED|||-NONE-|||0
+A 14 18|||R:OTHER|||competitions of this kind. If I had the possibility of going, I would have already|||REQUIRED|||-NONE-|||0
+A 18 20|||R:VERB|||purchased|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 21 25|||R:OTHER|||tickets.|||REQUIRED|||-NONE-|||0
+
+S I would like to go to a new artist rolls competition , although in my city there are n't a lot of competitions of this kind If I 'd have a posibility of going , I 'd already spend the tickets .
+A 0 14|||U:OTHER|||In|||REQUIRED|||-NONE-|||0
+A 14 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 24 25|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 25 27|||R:OTHER|||beginning,|||REQUIRED|||-NONE-|||0
+A 28 30|||R:VERB|||went|||REQUIRED|||-NONE-|||0
+A 30 39|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 40 42|||R:OTHER|||kindergarten, and they taught me skiing.|||REQUIRED|||-NONE-|||0
+
+S At the beginn I went to the childgarden and they taught me skiing .
+A 0 1|||R:OTHER|||My father took me between|||REQUIRED|||-NONE-|||0
+A 1 2|||R:DET|||his|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||knees because|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB|||could skate|||REQUIRED|||-NONE-|||0
+A 5 8|||R:OTHER|||without falling,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PRON|||it|||REQUIRED|||-NONE-|||0
+A 10 14|||R:OTHER|||was fun.|||REQUIRED|||-NONE-|||0
+
+S My father took me between his knies , because I could drive without falling and it was fun .
+A 0 1|||M:OTHER|||I had my|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||first|||REQUIRED|||-NONE-|||0
+A 2 9|||R:OTHER|||snowboard lesson, and|||REQUIRED|||-NONE-|||0
+A 10 12|||R:VERB|||loved|||REQUIRED|||-NONE-|||0
+A 12 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||it.|||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+
+S I had my first snowboardlesson und I loved it .
+A 1 2|||R:VERB|||enjoy snowboarding|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||because you feel free|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||when you|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB|||are riding|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PART|||down|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||slope.|||REQUIRED|||-NONE-|||0
+
+S I enjoy snowoarding , because you feel free when you are driving down the piste .
+A 0 10|||U:OTHER|||You|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||very happy, and sometimes I sing a song, and|||REQUIRED|||-NONE-|||0
+A 14 16|||R:OTHER|||world is perfect.|||REQUIRED|||-NONE-|||0
+
+S You are very happy und sometimes I sing a song and the world is perfect .
+A 0 4|||R:OTHER|||Is there no future for public|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||transport? Is|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||this|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||valid claim|||REQUIRED|||-NONE-|||0
+A 10 16|||R:OTHER|||or not?|||REQUIRED|||-NONE-|||0
+
+S No future for a public transpotr ? is this claim or no ?
+A 0 1|||R:PRON|||I|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||think|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 4 8|||R:OTHER|||it all depends on|||REQUIRED|||-NONE-|||0
+A 8 9|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 13|||R:OTHER|||development.|||REQUIRED|||-NONE-|||0
+
+S i think that it all depands from the development .
+A 0 1|||M:OTHER|||Yes, I|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||agree. If you plan|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||the travel for a long distance and an extended period, you would prefer to do|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||by car. Firstly, you'll|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||spend less time, your journey will be comfortable, and you'll have|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||possibility to stop anywhere and for as long as you need.|||REQUIRED|||-NONE-|||0
+
+S yes , i agree , if you planed the travelling for a long distation and for a long time you would prefer to do it on car , couse firstly you;ll spend less time , you travelling will be comfortable , you 'll have a possibility to stop every where and for a long time , as you need .
+A 0 5|||R:OTHER|||But|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PRON|||we|||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||are talking|||REQUIRED|||-NONE-|||0
+A 10 19|||R:OTHER|||about traveling across|||REQUIRED|||-NONE-|||0
+A 19 20|||R:DET|||your|||REQUIRED|||-NONE-|||0
+A 20 20|||M:NOUN|||city,|||REQUIRED|||-NONE-|||0
+A 21 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 36 39|||R:VERB|||prefer|||REQUIRED|||-NONE-|||0
+A 39 51|||R:OTHER|||public transport|||REQUIRED|||-NONE-|||0
+A 51 52|||R:SPELL|||or|||REQUIRED|||-NONE-|||0
+A 53 60|||R:OTHER|||car?|||REQUIRED|||-NONE-|||0
+
+S but if we are talking abot travelling across you city , would you prefer public transport or car ?
+A 0 3|||R:OTHER|||I think that this is a question for everyone, and the answer can't be the same for all. Someone|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||can use|||REQUIRED|||-NONE-|||0
+A 4 4|||M:OTHER|||public transport,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||benefiting not|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||only financially but also|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||contributing|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||environment.|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||However, some people don't like to|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB|||use|||REQUIRED|||-NONE-|||0
+A 16 16|||M:OTHER|||because they spend more time traveling|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||simply don't enjoy traveling with others.|||REQUIRED|||-NONE-|||0
+
+S i think that this is the guestion for every one , and the answer ca n't be one for all , cause , someone can use public transport , and economy by this not only money , but and the environment , but some people do n't like to use p.t . , cause they spend more time for travelling or they simple do n't like to travell with another people .
+A 0 5|||R:OTHER|||Guide|||REQUIRED|||-NONE-|||0
+A 6 31|||R:OTHER|||people|||REQUIRED|||-NONE-|||0
+A 32 33|||R:OTHER|||providing them|||REQUIRED|||-NONE-|||0
+A 33 36|||R:OTHER|||with information,|||REQUIRED|||-NONE-|||0
+A 36 37|||R:OTHER|||details,|||REQUIRED|||-NONE-|||0
+A 37 38|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 39 72|||R:OTHER|||guidelines about pollution.|||REQUIRED|||-NONE-|||0
+
+S guide the people and giving them of infomation , details and guidelines about the pollution .
+A 0 1|||R:OTHER|||I'd like to tell you about my favorite restaurant; its name is "Lemon." I go there every week because it offers different food from any other restaurants. I like|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||crispy chicken with garlic sauce – it's|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||an|||REQUIRED|||-NONE-|||0
+A 4 5|||R:ADJ|||excellent|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||choice|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||for me. My favorite appetizer|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||sausage,|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||for dessert, I prefer|||REQUIRED|||-NONE-|||0
+A 14 14|||M:OTHER|||"Vadge" cake with|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN|||chocolate sauce.|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||I feel at ease when I go there, and I enjoy classical music during lunch.|||REQUIRED|||-NONE-|||0
+
+S I 'd like to tell you about my favorite restaurant its name is " Lemon " I go there every week it has different food from any restaurants I 'd like chicken crispy with garlic sauce It 's Excellent choice for me and My favorite appitizer is susage and in order that desert I 'd rather " Vadge " cake with chocolate sauce I feel I;m at ease when I go there I enjoy classical music over having a lunch about the service It 's very good and all staff are respectable I ca n't imagine one week without going there that drives me nuts I advise any one to go there and enjoy a time there , also this restaurant has a relative advantage in hygiene really It 's excellent This strikingly thing for anyone despite all of these advantages prices are not expensive .
+A 0 81|||U:OTHER|||About|||REQUIRED|||-NONE-|||0
+A 82 83|||R:OTHER|||service,|||REQUIRED|||-NONE-|||0
+A 83 85|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
+A 86 87|||R:OTHER|||good,|||REQUIRED|||-NONE-|||0
+A 89 89|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 91 92|||R:OTHER|||respectable.|||REQUIRED|||-NONE-|||0
+A 93 95|||R:ORTH|||can't|||REQUIRED|||-NONE-|||0
+A 100 101|||R:OTHER|||there;|||REQUIRED|||-NONE-|||0
+A 101 102|||R:PRON|||it|||REQUIRED|||-NONE-|||0
+A 104 105|||R:ADJ|||nuts.|||REQUIRED|||-NONE-|||0
+A 107 109|||R:ORTH|||anyone|||REQUIRED|||-NONE-|||0
+A 114 115|||R:DET|||some|||REQUIRED|||-NONE-|||0
+A 115 116|||R:NOUN|||time.|||REQUIRED|||-NONE-|||0
+A 116 119|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
+A 126 126|||M:OTHER|||terms of|||REQUIRED|||-NONE-|||0
+A 126 127|||R:OTHER|||hygiene;|||REQUIRED|||-NONE-|||0
+A 127 128|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 128 130|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
+A 130 131|||R:OTHER|||excellent.|||REQUIRED|||-NONE-|||0
+A 131 137|||U:OTHER|||Despite|||REQUIRED|||-NONE-|||0
+A 140 141|||R:NOUN|||advantages,|||REQUIRED|||-NONE-|||0
+A 144 146|||R:ORTH|||expensive.|||REQUIRED|||-NONE-|||0
+
+S Volleyball its my favorite sport because when I am with my team playing I were in another world , in which I can be free and happy , apart of this , when I am bad , this is a distration of the university .
+A 1 2|||R:SPELL|||is|||REQUIRED|||-NONE-|||0
+A 9 9|||M:VERB|||playing|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||team,|||REQUIRED|||-NONE-|||0
+A 12 13|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:TENSE|||am|||REQUIRED|||-NONE-|||0
+A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||where|||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||happy.|||REQUIRED|||-NONE-|||0
+A 27 29|||U:PUNCT|||Apart|||REQUIRED|||-NONE-|||0
+A 29 30|||R:PREP|||from|||REQUIRED|||-NONE-|||0
+A 30 32|||R:ORTH|||this,|||REQUIRED|||-NONE-|||0
+A 35 36|||R:OTHER|||feeling|||REQUIRED|||-NONE-|||0
+A 36 37|||R:OTHER|||down,|||REQUIRED|||-NONE-|||0
+A 37 39|||R:OTHER|||it serves as|||REQUIRED|||-NONE-|||0
+A 40 41|||R:SPELL|||distraction|||REQUIRED|||-NONE-|||0
+A 41 42|||R:PREP|||from|||REQUIRED|||-NONE-|||0
+A 42 43|||U:DET||||||REQUIRED|||-NONE-|||0
+A 43 45|||R:ORTH|||university.|||REQUIRED|||-NONE-|||0
+
+S You should try practice its so funny , but I advertise you , is not easy at first , but you hace to intent many times like you should do in life .
+A 3 4|||R:OTHER|||practicing;|||REQUIRED|||-NONE-|||0
+A 4 5|||R:DET|||it's|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||much fun.|||REQUIRED|||-NONE-|||0
+A 7 9|||U:PUNCT|||But|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB|||advise|||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||you,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||it's|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||first.|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||However,|||REQUIRED|||-NONE-|||0
+A 19 20|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||have|||REQUIRED|||-NONE-|||0
+A 23 24|||R:VERB|||try|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOUN|||times,|||REQUIRED|||-NONE-|||0
+A 26 26|||M:ADV|||just|||REQUIRED|||-NONE-|||0
+A 29 30|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 31 33|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
+
+S In weekdays , I get off from my bed at 7 in the morning to go to my work which startst at 9 AM .
+A 0 1|||R:PREP|||On|||REQUIRED|||-NONE-|||0
+A 1 3|||R:ORTH|||weekdays,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PART|||out|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+A 17 18|||U:DET||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN|||work,|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||starts|||REQUIRED|||-NONE-|||0
+A 23 25|||R:ORTH|||AM.|||REQUIRED|||-NONE-|||0
+
+S He read in the newspaper an interesting noticie .
+A 2 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||notice|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||newspaper.|||REQUIRED|||-NONE-|||0
+
